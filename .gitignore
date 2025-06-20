@@ -1,1 +1,4 @@
-__pycache__
+.vscode
+./__pycache__
+world_objects/__pycache__
+meshes/__pycache__
