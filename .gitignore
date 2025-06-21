@@ -1,3 +1,4 @@
+*.cpython
 .vscode
 ./__pycache__
 world_objects/__pycache__
