@@ -6,6 +6,9 @@ import math
 # resolution
 WIN_RES = glm.vec2(1366, 768)
 
+# world generation
+SEED = 16
+
 # ray casting
 MAX_RAY_DIST = 6
 
